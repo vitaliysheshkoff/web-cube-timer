@@ -1,0 +1,1 @@
+web: java -Dserver.port=$PORT -jar build/libs/web-cube-timer-0.0.1-SNAPSHOT.jar
